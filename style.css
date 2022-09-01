@@ -1,0 +1,23 @@
+p{
+    font-size: 20px;
+}
+
+.example-block{
+  
+    outline: 1px solid #000;
+    width: 400px;
+    margin: 10px;
+    padding: 1%;
+    
+     
+   
+}
+
+.example-string{
+    display: block;
+    border: 1px solid #000;
+    margin: 10px;
+    width: 300px;
+     
+    
+}
